@@ -1,5 +1,6 @@
 # Ah13App
 
+![Tournament Registration Workflow](./tournament-workflow.png)
 A mobile application built with **DreamFlow Agent** - an AI-powered agent framework for creating intelligent mobile applications.
 
 ## Overview
