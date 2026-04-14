@@ -1,0 +1,40 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "deeds-ee5db",
+          "appId": "1:377205896368:android:65a9367d971f75134ab775",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "deeds-ee5db",
+          "configurations": {
+            "android": "1:377205896368:android:65a9367d971f75134ab775",
+            "ios": "1:377205896368:ios:eea7839956f7f4c84ab775",
+            "web": "1:377205896368:web:dad3df490c2b4cb04ab775"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

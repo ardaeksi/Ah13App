@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377205896368",
+    "project_id": "deeds-ee5db",
+    "storage_bucket": "deeds-ee5db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377205896368:android:65a9367d971f75134ab775",
+        "android_client_info": {
+          "package_name": "com.ah13.deeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZDWjDqsk3XinLviChH0p0KCqgZr7jEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
