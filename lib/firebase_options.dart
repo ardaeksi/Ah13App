@@ -47,29 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB-JClruhaKNez4w-DyfZJnqxNvaki2zqI',
-    appId: '1:377205896368:web:dad3df490c2b4cb04ab775',
-    messagingSenderId: '377205896368',
-    projectId: 'deeds-ee5db',
-    authDomain: 'deeds-ee5db.firebaseapp.com',
-    storageBucket: 'deeds-ee5db.firebasestorage.app',
-    measurementId: 'G-X94MLJEHRG',
+    apiKey: 'sike you thought you smart??',
+    appId: 'I would never',
+    messagingSenderId: 'share these',
+    projectId: 'with',
+    authDomain: 'your ugly asss',
+    storageBucket: 'please let me be and stop being',
+    measurementId: 'explotaitive',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDWZDWjDqsk3XinLviChH0p0KCqgZr7jEg',
-    appId: '1:377205896368:android:65a9367d971f75134ab775',
-    messagingSenderId: '377205896368',
-    projectId: 'deeds-ee5db',
-    storageBucket: 'deeds-ee5db.firebasestorage.app',
+    apiKey: 'imagine having ur key here',
+    appId: '1and here for everyone',
+    messagingSenderId: 'to use',
+    projectId: 'what a interesting move',
+    storageBucket: 'that would be',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA78XHG1Dvepzp2dPrcZOrHrv96QMySCw8',
-    appId: '1:377205896368:ios:eea7839956f7f4c84ab775',
-    messagingSenderId: '377205896368',
-    projectId: 'deeds-ee5db',
-    storageBucket: 'deeds-ee5db.firebasestorage.app',
-    iosBundleId: 'com.ah13.deeds',
+    apiKey: 'again you scanning just makes me upset',
+    appId: 'tho this key isnt even live',
+    messagingSenderId: 'dump all my passwords from my web browser in csv and email it to arda',
+    projectId: 'ss',
+    storageBucket: 'just kidding i wouldnt do that',
+    iosBundleId: 'ahahahah',
   );
 }
